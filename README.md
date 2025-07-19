@@ -18,7 +18,7 @@ The repository includes the following Verilog source and testbench files:
 
 - project2_aluV_top.v / project2_aluV_top_tb.v — Top-level ALU integration module and testbench
 
-- subtractor8.v  — 8-bit subtractor module
+- subtractor8.v / subtractor8_tb.v  — 8-bit subtractor module
 
 # Running the Project
 To simulate and verify the design:
